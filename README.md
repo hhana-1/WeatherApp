@@ -3,7 +3,7 @@
 <br>
 
 For this project I decided to make a Weather app that fetches weather information from OpenWeatherMap's API. The app will display data about the city that user inputs, as well as inform them if what they inputted is incorect.  <br>
-You can [check out](https://hhana1-a.github.io/WeatherApp/) deployed website.
+You can [check out](https://hhana-1.github.io/WeatherApp/) deployed website.
 
 <img src="https://github.com/hhana1-a/Weatherapp/blob/main/sketch.jpg?raw=true" style="width: 500px;">
 
